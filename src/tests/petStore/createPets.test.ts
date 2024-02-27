@@ -10,7 +10,7 @@ test.describe("Test create neew pet", () => {
         /**
          * Set your request
          * Provide your payload
-         * Send post request
+         * Send your post request
         */
         `)
         info(`Create a pet without name `);
