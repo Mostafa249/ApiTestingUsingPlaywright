@@ -1,7 +1,6 @@
 # 🔥 API Test Suite 🔥
 
-This repo contains a collection of automation test cases that targets Fatura APIs.
-
+This repo is a dummy API testing using Playwright.
 ## Testing Stack: 🔑
 
 - Typescript
